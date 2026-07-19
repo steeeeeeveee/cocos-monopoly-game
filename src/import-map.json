@@ -1,1 +1,7 @@
-{"imports":{"cc":"./../cocos-js/cc.js"}}
+{
+  "imports": {
+    "cc": "./../cocos-js/cc.js",
+      "@cocos/dragonbones-js": "./../cocos-js/external/@cocos/dragonbones-js.js",
+      "@cocos/box2d": "./../cocos-js/external/@cocos/box2d.js"
+  }
+}
